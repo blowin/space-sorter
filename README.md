@@ -3,10 +3,12 @@ Simple sorting files by extension.
 
 ### The application interface
 ![Interface](https://github.com/blowin/space-sorter/blob/master/img/main_window.jpg?raw=true)
+
 To choose the directory to sort, click the "Choose Directory"
 
 ### A dialog box appears to find the folder
 ![File dialog](https://github.com/blowin/space-sorter/blob/master/img/choice_dir.jpg?raw=true)
+
 Once found the folder, press "OK/Okey"
 
 After selecting the folder, it will be written the full path to the selected folder. 
